@@ -1,4 +1,5 @@
-# CS50 Final Project – Game Collection
+# CS50 Final Project â€“ Game Collection
+#### Video Demo:  <https://youtu.be/GBsQd6UnDHM?si=rKnSPTMws30gHCfW>
 
 ## Description
 This project is a collection of three simple games built using C# and Windows Forms.
@@ -27,4 +28,5 @@ event-driven programming, and basic game dev.
 3. Run the application
 
 ## Conclusion
+
 Kind regards, Moetaz Hlal.
